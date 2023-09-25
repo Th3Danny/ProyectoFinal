@@ -1,0 +1,31 @@
+.volume {
+    height: 100%;
+    width: 48px;
+  }
+  
+  .slider {
+    height: 4px;
+    background-color: #5e5e5e;
+    width: 80%;
+    border-radius: 2px;
+    margin-left: 0.3rem;
+  }
+  
+  .green {
+    background-color: #1db954;
+    height: 100%;
+    width: 80%;
+    border-radius: 3px;
+  }
+  
+  .circle {
+    background-color: white;
+    height: 6px;
+    width: 6px;
+    border-radius: 3px;
+    position: absolute;
+    right: 20%;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
